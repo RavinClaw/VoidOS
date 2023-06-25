@@ -1,2 +1,6 @@
-# VoidOS
-An attempt at creating a virtual operating system where the user can create anything they want with APIs and other tools to create the perfect portable OS that can be used anywhere with minimal primary OS permissions
+# Void OS
+### Welcome to VoidOS, The operating system That can be taken anywhere
+
+
+# Updates
+- Currently working on creating a proper kernal that can be used to write in the API and allow the system to store the info that you make
